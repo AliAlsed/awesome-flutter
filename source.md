@@ -146,6 +146,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Credit Card Form](https://github.com/Origogi/Flutter-Credit-Card-Input) <!--stargazers:Origogi/Flutter-Credit-Card-Input--> - Animated credit card input form [Origogi](https://github.com/Origogi).
 - [Animated Selection Slide](https://github.com/sbilketay/animated_selection_slide) An animated selection widget by swiping by [Sezgin Bilgetay](https://github.com/sbilketay).
 - [Flutter Tags](https://github.com/Dn-a/flutter_tags) <!--stargazers:Dn-a/flutter_tags--> - Tags with different customizations by [Di Natale Antonino](https://github.com/Dn-a).
+- [Timeline Tile](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - A tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 #### Sticky Headers
 
@@ -385,6 +386,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [FlutterFoodybite](https://github.com/JideGuru/FlutterFoodybite) <!--stargazers:JideGuru/FlutterFoodybite--> - Beautiful food app UI template by [JideGuru](https://github.com/JideGuru)
 - [Flutter Samples](https://github.com/diegoveloper/flutter-samples) <!--stargazers:diegoveloper/flutter-samples--> - Collection of nice flutter samples by [Diego Velásquez](https://github.com/diegoveloper).
 - [ActingWeb First_App](https://github.com/gregertw/actingweb_firstapp) <!--stargazers:gregertw/actingweb_firstapp--> - Starter app with basic elements for a team-developed production-quality app by [Greger Wedel](https://github.com/gregertw) 
+- [Beautiful Timelines](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ### Web
 
